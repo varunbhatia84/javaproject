@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World Test My Code Test againTest" );
+        System.out.println( "New line added" );
     }
 
 	public int calculateSomething() {
